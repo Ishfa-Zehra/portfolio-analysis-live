@@ -13,7 +13,7 @@ conn = sqlite3.connect('portfolio_database.db')
 
 # 3. Create a Sidebar - This makes it look very professional
 st.sidebar.header("Project Info")
-st.sidebar.write("Created by: Ishfa Zehra / Niwas Panwar")
+st.sidebar.write("Created by: Ishfa Zehra")
 st.sidebar.write("Subject: Programming Language")
 
 # 4. Show the Stock Table
